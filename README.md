@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brunda V</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Javascript, PHP**
+- 🌱 I’m currently learning **Javascript**
 
 - 📫 How to reach me **brunda1936@gmail.com**
 
